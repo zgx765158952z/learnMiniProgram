@@ -1,0 +1,6 @@
+/* pages/home/home.wxss */
+.txt {
+  color: blue;
+  font-size: 30px;
+  display: block;
+}
